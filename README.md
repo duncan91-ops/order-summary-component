@@ -45,12 +45,14 @@ Users should be able to:
 - Positioning
 - Use of Negative Margin
 - Hover State
+- Media Queries
 
 ### Continued development
 
 - BOX Model
 - GRID
 - LAYOUT
+- RESPONSIVE LAYOUT
 
 ## Author
 
